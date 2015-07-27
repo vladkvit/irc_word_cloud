@@ -11,4 +11,4 @@ mc.generateDatabase(data)
 
 # To let the markov chain generate some text, execute
 #print( mc.generateString() )
-print( mc.generateStringWithSeed("time") )
+print( mc.generateStringWithSeed("the") )
